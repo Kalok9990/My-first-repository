@@ -1,0 +1,3 @@
+SELECT *
+FROM Northwind
+WHERE CustomerID = 89898797
