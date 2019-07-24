@@ -1,0 +1,3 @@
+SELCECT *
+FROM EMPLOYEES
+WHERE employeeID > 1;
